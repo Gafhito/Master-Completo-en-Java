@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Sección 1 - Introducción" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sección 2 - Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sección 3 - Tipo String. Cadenas" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
